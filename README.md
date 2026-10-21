@@ -1,1 +1,1 @@
-this repository contains basic queries of SQL 
+This repository contains basic queries of SQL 
